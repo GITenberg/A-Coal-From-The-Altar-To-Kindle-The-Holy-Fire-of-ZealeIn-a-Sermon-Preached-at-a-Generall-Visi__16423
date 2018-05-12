@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6697
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Ward_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16423#A-Coal-From-The-Altar-To-Kindle-The-Holy-Fire-of-ZealeIn-a-Sermon-Preached-at-a-Generall-Visi_
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-08-03'
 gutenberg_type: Text
